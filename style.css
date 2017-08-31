@@ -1,10 +1,17 @@
 body, html {
+	height: 100%;	
+	width: 100%;	
 	background: lightblue;
-	color: darkgray: ;
+	/*color: darkgray: ;*/
+	margin:0;
+	padding: 0;
 }
 
-img {
-	height: 300px;
-	border: 3px solid blue;
-	border-radius: 20px;
+nav.navbar {
+	margin-bottom: 50px;
+	/*line-height: 50px;*/
+}
+
+.navbar-brand.fa.fa-github {
+	font-size: 	30px;
 }
